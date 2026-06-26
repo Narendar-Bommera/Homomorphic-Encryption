@@ -1,0 +1,7 @@
+flask
+gunicorn
+tenseal
+numpy
+flask-cors
+requests
+
